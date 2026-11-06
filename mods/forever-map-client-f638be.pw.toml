@@ -1,0 +1,9 @@
+name = "Forever Everness Kartenclient"
+filename = "forever-map-client-26.3-0.3.3.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06/forever-map-client-26.3-0.3.3.jar"
+hash-format = "sha512"
+hash = "5747a41425085752b7dad4c9ba39145b8523c47dbc68d1237b638189b2c9fcd029d31e17f2186a1bacc29cc62a43349c737bd8567d056a36b366ed193a6af964"

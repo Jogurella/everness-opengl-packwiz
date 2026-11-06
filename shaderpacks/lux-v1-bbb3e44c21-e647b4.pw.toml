@@ -1,0 +1,13 @@
+name = "Lux V1"
+filename = "Lux_v1.3 - Neu.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/DiGQENDV/versions/olEssKhO/Lux_v1.3.zip"
+hash-format = "sha512"
+hash = "bbb3e44c217dc07e23e09dd36acd65170f89789f94acbaaab7d0b09afda157c9280c4cab61cfc89ed3c0881be44d9bc84ad579cc8c50e03c817e71e4f40fe9f7"
+
+[update.modrinth]
+mod-id = "DiGQENDV"
+version = "olEssKhO"

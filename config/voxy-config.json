@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "enable_rendering": true,
+  "ingest_enabled": true,
+  "section_render_distance": 12.5,
+  "service_threads": 2,
+  "sub_division_size": 77.4918,
+  "fog_mode": "fog_and_fade",
+  "dont_use_sodium_builder_threads": false,
+  "ssao_mode": "better"
+}

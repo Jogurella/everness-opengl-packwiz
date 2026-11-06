@@ -1,0 +1,2 @@
+#Thu Nov 05 20:30:02 CET 2026
+MOTION_BLUR=false

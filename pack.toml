@@ -1,0 +1,13 @@
+name = "Everness Visuals - OpenGL"
+author = "Everness"
+version = "2026.11.06"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bf6387dc177b0b1ba5d2aa2bb7b6f6704818596e5cc448ca339031ef461c4a2"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

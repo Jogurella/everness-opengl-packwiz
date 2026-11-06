@@ -1,0 +1,9 @@
+{
+	"knownHuds": [
+		"org.polyfrost.evergreenhud.client.hud.media.MediaHud", 
+		"org.polyfrost.evergreenhud.client.hud.ArmorHud", 
+		"org.polyfrost.evergreenhud.client.hud.direction.DirectionHud", 
+		"org.polyfrost.evergreenhud.client.hud.FpsHud", 
+		"org.polyfrost.evergreenhud.client.hud.PositionHud"
+	]
+}
