@@ -1,17 +1,19 @@
 {
-  "version": "2026.11.06",
+  "version": "2026.11.06.1",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "renderer": "opengl",
   "sourceProfile": "Everness-OpenGL",
   "archiveCount": 114,
-  "managedArchiveCount": 91,
-  "manualArchiveCount": 23,
+  "managedArchiveCount": 114,
+  "manualArchiveCount": 0,
   "settingsFileCount": 123,
   "accountSanitization": [
     "config/litematica.json: absolute machine path cleared",
     "config/my_totem_doll.json5: personal default skin removed"
   ],
   "originalInstancesModified": false,
-  "serverJoined": false
+  "serverJoined": false,
+  "archiveBytesPreserved": true,
+  "localAdditionImportRequired": false
 }

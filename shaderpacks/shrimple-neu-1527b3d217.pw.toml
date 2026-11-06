@@ -1,0 +1,9 @@
+name = "Shrimple - Neu"
+filename = "Shrimple - Neu.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-shrimple-neu-1527b3d217.zip"
+hash-format = "sha512"
+hash = "1527b3d21725aae2b9b59a5612d2901976c761f7c05da0572e4d107a231efe637f46d0d4b9326aa53d35af389bea667bedc8f8fbfdb6662fa89630524a4477e2"

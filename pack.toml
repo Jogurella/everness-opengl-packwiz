@@ -1,12 +1,12 @@
 name = "Everness Visuals - OpenGL"
 author = "Everness"
-version = "2026.11.06"
+version = "2026.11.06.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d5a6c7d41612db6e67a53382060eaaf25028fa1714fdc991ba09561ed6f42bf8"
+hash = "616de5b0a01c6b26e0f1134c0ba930f3e7ae079eb19d8b6608cf047e92568a3e"
 
 [versions]
 fabric = "0.19.5"

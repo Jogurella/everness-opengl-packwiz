@@ -1,0 +1,9 @@
+name = "Eclipse - Neu"
+filename = "Eclipse - Neu.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-eclipse-neu-dcd0a210ac.zip"
+hash-format = "sha512"
+hash = "dcd0a210ac93e89177f4c375108649535818b2344793590d652ba4830f818ab9658536338be9f437bbeadd492bf5751eee952eb30370c974bb1c7eb22cdfcd27"

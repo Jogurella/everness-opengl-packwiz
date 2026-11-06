@@ -476,6 +476,11 @@ hash = "ea1a0ddc22cad6c57ea004f3733b9470403f30a48950463e8dc556e82526019f"
 metafile = true
 
 [[files]]
+file = "mods/camerautils-fabric-1-1-2-26-3-superzoom-fix-7045ca47ef.pw.toml"
+hash = "3c292b8a4d0fa9f6b94e04f64fbb6e32395f80e21bcd7eccb09fea811127dfba"
+metafile = true
+
+[[files]]
 file = "mods/chunky-b83bfe7b21-5a3850.pw.toml"
 hash = "3855b4246aacb022a92c9d507cf52ebec67d35d7da02eedd7131303b981854d3"
 metafile = true
@@ -641,6 +646,11 @@ hash = "f956821c9b7069fd52f065a7b03d03706c7bdc2d8c1b104e1700503da9001b79"
 metafile = true
 
 [[files]]
+file = "mods/mytotemdoll-2-7-0-26-3-fabric-20d8643e80.pw.toml"
+hash = "59da4f30fb8e54b33df8069731c14a36d23fb69834d03ea1cb49b1c66d452f90"
+metafile = true
+
+[[files]]
 file = "mods/nvidium-36cfe2f0ef-da9faa.pw.toml"
 hash = "1b1ca6ccfc69c9e38945c20cc81214ce433098358bfca1571be03eac48728f6d"
 metafile = true
@@ -673,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api-eb2bb31e51-80a1e4.pw.toml"
 hash = "1e475480c70e79a00c1c6a2fe0c865141a0a14eab3e67b3e4eab93a8bf733106"
+metafile = true
+
+[[files]]
+file = "mods/punchy-2-8g-fabric-26-3-582ab021e1.pw.toml"
+hash = "7bfc9ae3ce094fe2c312dcd223da26b52f67a91e68aac197a45b3c2a7c9f1b1c"
 metafile = true
 
 [[files]]
@@ -731,6 +746,11 @@ hash = "945c4cac454e30652e1c675895d2ca1e38cb17fb193edfe83976da6894d0dae4"
 metafile = true
 
 [[files]]
+file = "mods/voxy-0-2-20-beta-8bdb65772a.pw.toml"
+hash = "0365368744140dab88ea51a06ff393f76b194363a335fe71040c8a78be8a1242"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes-8be4bbe1ef-357244.pw.toml"
 hash = "ea3edeca24440021daf493446e6178812cf507681823e9a489f625d554968267"
 metafile = true
@@ -769,6 +789,11 @@ hash = "de7e964913027c9cae00e178eca624f9732663879a2172021dfb299d9a407f5c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/actually-3d-blocks-items-d0103240df.pw.toml"
+hash = "413e735275e45824b6db63f8a675ce6ebf35ed7996460551af62b872441096fb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/animated-3d-wind-charge-compatible-with-punchy-3af0ffc3d7-b39cf0.pw.toml"
 hash = "170134bbbbd11d4c5b721c4e062e438a7413c0d4fa5f3d53b77ece589529adfc"
 metafile = true
@@ -779,13 +804,43 @@ hash = "6b3c4f83b7cb22cdda44686c00e8ed3c1c4883860eb37dda85d3b5fa0c308b1d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-fresher-3d-books-v1-5-1-68e54f0f7d.pw.toml"
+hash = "2248915a102a0362ad22b02a8e4ff1a1d328a136a5408021c730ddcf0a5df6da"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-leaves-793dacaca4-24b35e.pw.toml"
 hash = "fcf30a04090df21f9edbce87621fc9927fbb59793032512e882baac3ce124972"
 metafile = true
 
 [[files]]
+file = "resourcepacks/colourful-containers-8ce887bdbf.pw.toml"
+hash = "685c368b5b224738601bf1e1e0929902d032806fd7a27dd4e39b040c855a5994"
+metafile = true
+
+[[files]]
+file = "resourcepacks/darkmode-v-1-2-jannik6879-9314068718.pw.toml"
+hash = "3f00016bac4476659f69941f0aaf2d01a18942059fff57a5c741c9d6bc57a4e4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/deepslate-tuff-hellrot-26-3-bcb7a9472d.pw.toml"
+hash = "c223069d1c72d741dc8ad5f1c89336bd2eb0747ab047681bd04804a00e6ec089"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enchant-icons-countxd-cd859df002-11f148.pw.toml"
 hash = "06eed7e56936eb4e422789533adc5a0f11d52e219fb06a4cf6ae433301362a51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchantment-outlines-6e37ff241a.pw.toml"
+hash = "515e431ec5024746a36fe43f45d0ad9ee2db405140c09e01c87430d54ca8f7fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-v1-1-55449d385f.pw.toml"
+hash = "14bc43f0d85e7c97a7d35d2643db8a9f339d1bddcb24d711313fbf4b090ffd7b"
 metafile = true
 
 [[files]]
@@ -839,6 +894,11 @@ hash = "44e956f28d39e7343f86a409628030ce1a05dd2a0f1f928b235a6906d5cfb4d0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-food-0e95708243.pw.toml"
+hash = "02d93802928efa0a848024cb5349674689c8ccbe5f0cec8f239be6107046dfbb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fyoncles-3d-trims-ec23dab932-1d4de4.pw.toml"
 hash = "1c3db157f8a84cec8ba7ac7b6f5694d12898a968997c279113e1e91ee83fc380"
 metafile = true
@@ -856,6 +916,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mace-but-3d-resourcepack-6a45a69208-7baffd.pw.toml"
 hash = "7f48bdda0beb107f28f0aef499e7343da209f52d96c17c4f8541e86b30746fc8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanillatweaks-r144903-mc1-21-x-ea51c5b70f.pw.toml"
+hash = "5a624d2264fffe79f097dd630ce87889e70313e5680ccc5d226ed4f92123eeb3"
 metafile = true
 
 [[files]]
@@ -895,8 +960,33 @@ file = "shaderpacks/Tobias-Pixel.zip.txt"
 hash = "1919ad9f708e2a3a3fd88348fb3725648d88f5ab215d6bc59e2362f464505f73"
 
 [[files]]
+file = "shaderpacks/bliss-shaders-neu-5dcebc0246.pw.toml"
+hash = "14a64b99f6b5b144b8d7a1a560fdb324ebd83c6c0ba98a5ed2c30811257d972b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-v10-1-8-b6d5f67b1c.pw.toml"
+hash = "ee5caf0f3d7f0731104d4cf2020be11fc04abcf989dc8731b5ac714277c09dba"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound-a085d1d8cd-69cd93.pw.toml"
 hash = "ba55306e34f5395e126d3fd78b730d79c95d64ef79b3aa68f0956ad6f3c16ca2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined-r5-9-3-9da7d740df.pw.toml"
+hash = "ce6a1acca8af1510690e152d29cc48add05996dbf9e0402655ff0186d2169c75"
+metafile = true
+
+[[files]]
+file = "shaderpacks/derivative-main-d24-4-4-neu-013159603c.pw.toml"
+hash = "343449d745beaabd28484803ca3826df267c8178cf629f55eb8e51dd4860e8d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/eclipse-neu-dcd0a210ac.pw.toml"
+hash = "2de6a628ce147601843ca790460a94e22e343f2726b78ec61468e868f4e7dcfa"
 metafile = true
 
 [[files]]
@@ -934,6 +1024,21 @@ hash = "8829d35fadfcabdeb76842be6d5c3fd1b3373a7d90c19a920fb450f94f60ff5e"
 metafile = true
 
 [[files]]
+file = "shaderpacks/seus-ptgi-hrr-test-2-1-gfme-1-22-rc1-54e6bbef1a.pw.toml"
+hash = "5266a1d5acd58a382edaf855d5339c8cab05b9a343e3e8796973b96f2769646c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple-neu-1527b3d217.pw.toml"
+hash = "7904776ec389db3257db20eef88c37593fef248644c64fa7e58bed1e61149832"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildur-s-vibrant-shaders-v2-02-extreme-1e75edf13f.pw.toml"
+hash = "247739fed8c667c653c10f929aea7f984a1876ac26c89063ef8044c87daea3e3"
+metafile = true
+
+[[files]]
 file = "shaderpacks/solas-shader-7ba3849628-18bf72.pw.toml"
 hash = "6dd7c3cfd2e70fe7fb18620008ff1c8cc60045edd01d63fb309273451227426b"
 metafile = true
@@ -941,6 +1046,16 @@ metafile = true
 [[files]]
 file = "shaderpacks/solas-shader-7ba3849628-2efec1.pw.toml"
 hash = "00da12c7a999467618eb26b79d5c7f5d3aadb480f0583f970e20fafde80c54a1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader-v3-7b-6af2275285.pw.toml"
+hash = "b6961bbbd67bf0ee9c0747b5f71ad47321dec6588682e7496a9aa17d3f401d18"
+metafile = true
+
+[[files]]
+file = "shaderpacks/tobias-pixel-2f71832bfc.pw.toml"
+hash = "830f076d1d8fbbdf9755408e35da46aba5e152d21662114fab86fde38e6c9701"
 metafile = true
 
 [[files]]
