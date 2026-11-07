@@ -1,6 +1,6 @@
 name = "Everness Visuals - OpenGL"
 author = "Everness"
-version = "2026.11.07.1"
+version = "2026.11.07.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -11,3 +11,8 @@ hash = "291346261246231ab1c4e6a6806490843b45fffc6b399080c30d86c09aab7935"
 [versions]
 fabric = "0.19.5"
 minecraft = "26.3"
+
+[options]
+[options.everness]
+settings-sha256 = "2a6f249779935a220c9e345646b9f7dcc2a91dd6a87b81b989db9b19a0680a43"
+settings-template = "settings-manifest.json"

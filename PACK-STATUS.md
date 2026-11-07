@@ -1,4 +1,4 @@
-# Vollständiger Pack-Status — 2026.11.07.1
+# Vollständiger Pack-Status — 2026.11.07.2
 
 Abbild von **Everness-OpenGL**, Minecraft **26.3**, Fabric **0.19.5**; Iris, Voxy und Nvidium.
 
