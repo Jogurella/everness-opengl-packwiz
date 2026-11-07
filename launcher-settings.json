@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "version": "2026.11.07",
+  "javaMajor": 25,
+  "prism": {
+    "OverrideMemory": "true",
+    "MinMemAlloc": "512",
+    "MaxMemAlloc": "8192",
+    "OverrideJavaArgs": "false",
+    "OverrideWindow": "true",
+    "LaunchMaximized": "false",
+    "MinecraftWinWidth": "1600",
+    "MinecraftWinHeight": "900",
+    "OverrideMiscellaneous": "true"
+  }
+}

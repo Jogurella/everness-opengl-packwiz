@@ -1,4 +1,4 @@
-# Vollständiger Pack-Status — 2026.11.06.1
+# Vollständiger Pack-Status — 2026.11.07
 
 Abbild von **Everness-OpenGL**, Minecraft **26.3**, Fabric **0.19.5**; Iris, Voxy und Nvidium.
 
@@ -12,3 +12,7 @@ Abbild von **Everness-OpenGL**, Minecraft **26.3**, Fabric **0.19.5**; Iris, Vox
 Die Modrinth-Autoren-Downloads bleiben direkt verlinkt. Die bereits vorhandenen lokalen Archivstände sind als separate, fest gepinnte GitHub-Release-Dateien eingebunden und werden nicht als offizielle Autoren-Releases bezeichnet. Die vorhandenen Drittanbieter-Lizenzen gelten weiter; dieses Repository erteilt keine zusätzlichen Rechte an ihnen.
 
 Die Installation wird in einem getrennten Verzeichnis geprüft. Das ist ein Datei-/Installer-Test und kein neuer Spiel-, FPS- oder Langzeit-Stabilitätstest.
+
+## Einstellungsabgleich
+
+133 geprüfte Einstellungsdateien; Details und Wiederherstellung: [SETTINGS.md](SETTINGS.md). Aktive Punchy-Profilwahl und vollständige Hotkeys enthalten.
