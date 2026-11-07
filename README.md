@@ -1,12 +1,12 @@
 # Everness Visuals — OpenGL
 
-**Minecraft 26.3 · Fabric 0.19.5 · Java 25 · Pack-Version 2026.11.07**
+**Minecraft 26.3 · Fabric 0.19.5 · Java 25 · Pack-Version 2026.11.07.1**
 
 Iris, Voxy und Nvidium. Vollständiger Archivstand des bisherigen Prism-Profils: **114 Downloads**, einschließlich aller lokalen Mod-, Ressourcenpack- und Shaderanpassungen. **Keine zusätzliche lokale Dateisammlung erforderlich.**
 
 ## In Prism installieren
 
-1. Unter [Releases](https://github.com/Jogurella/everness-opengl-packwiz/releases/tag/v2026.11.07) **Everness-opengl-Prism-Starter.zip** herunterladen.
+1. Unter [Releases](https://github.com/Jogurella/everness-opengl-packwiz/releases/tag/v2026.11.07.1) **Everness-opengl-Prism-Starter.zip** herunterladen.
 2. In Prism **Instanz hinzufügen → Import aus ZIP** wählen und diese ZIP importieren.
 3. Java 25 verwenden, dein Microsoft-Konto im Launcher selbst anmelden und starten. Der Pre-Launch-Updater lädt das vollständige Pack automatisch und prüft die Dateien.
 

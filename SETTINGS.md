@@ -1,4 +1,4 @@
-# Einstellungen 2026.11.07
+# Einstellungen 2026.11.07.1
 
 Vollständiger, portabler Einstellungsstand aus **Everness-OpenGL**: 133 Dateien und 207 Minecraft-/Mod-Tastenbelegungen. Die beiden Renderer behalten ihre jeweiligen Werte.
 
@@ -6,7 +6,7 @@ Enthalten: Minecraft-Optionen samt Ressourcenpack-Reihenfolge, CameraUtils-Zoom,
 
 ## Neue Installation
 
-Den [aktuellen Prism-Starter](https://github.com/Jogurella/everness-opengl-packwiz/releases/tag/v2026.11.07) importieren. Er enthält die Einstellungen bereits vor dem ersten Spielstart; packwiz lädt die unveränderten gepinnten Mod-/Packarchive nach.
+Den [aktuellen Prism-Starter](https://github.com/Jogurella/everness-opengl-packwiz/releases/tag/v2026.11.07.1) importieren. Er enthält die Einstellungen bereits vor dem ersten Spielstart; packwiz lädt die unveränderten gepinnten Mod-/Packarchive nach.
 
 ## Bereits installiertes GitHub-Profil korrigieren
 
