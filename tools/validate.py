@@ -21,4 +21,8 @@ for item in manifest['files']:
     f=r/item['path'];assert hashlib.sha256(f.read_bytes()).hexdigest()==item['sha256'],item['path']
     assert entries[item['path']].get('preserve') is True,item['path']
 assert 'config/punchy/profiles/.active_profile' in entries
+assert any('weather-glass' in p.name for p in (r/'mods').glob('*.pw.toml'))
+assert (r/'patches/cozy-companion-setup/dev/everness/cozy/CozySetup.java').is_file()
+assert pack['versions']=={'fabric':'0.20.1','minecraft':'26.3'}
+assert pack['options']['everness']['settings-sha256']==hashlib.sha256((r/'settings-manifest.json').read_bytes()).hexdigest()
 print(json.dumps({'pack':pack['name'],'index_files':len(index['files']),'download_metadata':count,'local_additions':len(all_paths),'result':'PASS'}))

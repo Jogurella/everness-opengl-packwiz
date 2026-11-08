@@ -1,8 +1,20 @@
-# Everness Opengl – 2026.11.08.1
+# Everness OpenGL – 2026.11.08.2
 
-HUD, Hotkeys und gemeinsame Mod-Einstellungen entsprechen der Vulkan-Vorlage.
+Weather Glass für Regen und Frost am Fenster, ergänzt um Cozy Companion r3 mit zwei zusätzlichen Shaderprofilen.
 
-![Everness-Update 2026.11.08.1](.github/assets/update-2026.11.08.1-hud-sync.png)
+![Everness-Update 2026.11.08.2](.github/assets/update-2026.11.08.2-weather-cozy-opengl.png)
+
+Fabric Loader: **0.20.1**, passend zum getesteten Vulkan-Pack.
+
+## Neu: Weather Glass und Cozy Companion
+
+Regen und Frost auf Fenstern mit Weather Glass 0.6.0. Leichte Vanilla-Details (16x), normale Regen-/Schneemengen, Beta-Staub/Wind und zusätzlicher Glas-Weichzeichner aus. Konfiguration: **Mods → Weather Glass**.
+
+**Cozy Companion r3** bietet **Cozy - Normal** und **Cozy - Pixelated**. Grundlage ist [Complementary Unbound r5.9.3 von EminGT / Complementary Development](https://www.complementary.dev/). Der separat über Modrinth geladene Originalshader bleibt erhalten. Die MIT-Start-Hilfe erstellt nur auf deinem Rechner die lokale Cozy-Variante und erhält vorhandene eigene Dateien. Keine vollständige geänderte Complementary-Kopie wird hier hochgeladen; [Quellen und Funktionsweise](patches/cozy-companion-setup). Für die Pack-Zusammenstellung und die lokalen Anpassungen ist Everness verantwortlich.
+
+**Prüfstand:** beide Renderer mit geladenem Cozy/Weather Glass jeweils 165 Sekunden in einer Offline-Regen-/Schnee-Szene regulär beendet. Die sichtbare Abnahme ist wegen verweigerter Windows-Fenstersteuerung noch offen. [Details und bekannte Grenzen](PACK-STATUS.md).
+
+Der Stand enthält **69 Mods, 29 Ressourcenpacks, 19 direkt heruntergeladene Shaderarchive und die lokal erzeugte Cozy-Variante**. Shaderwahl, Hotkeys, HUD und andere bestehende Mod-Optionen bleiben erhalten. Eine Neuinstallation benötigt ein eigenes Minecraft-Konto und Java 25.
 
 [Änderungsnotizen](CHANGELOG.md) · [Tatsächlicher Prüfstand und Grenzen](PACK-STATUS.md) · [Einstellungen übernehmen](SETTINGS.md)
 
@@ -10,7 +22,7 @@ HUD, Hotkeys und gemeinsame Mod-Einstellungen entsprechen der Vulkan-Vorlage.
 
 - [Prism-Starter herunterladen](downloads/Everness-opengl-Prism-Starter.zip), als Instanz in Prism importieren und Java 25 verwenden.
 - Bei bestehender Installation das Pack aktualisieren. Für den vollständigen Einstellungsabgleich zusätzlich das [Einstellungspaket](downloads/Everness-opengl-Einstellungen.zip) einmal mit Sicherung anwenden; [Anleitung](SETTINGS.md).
-- Das aktuelle Pack enthält **67 Mods, 29 Ressourcenpacks und 19 Shaderarchive**. [Alle Downloads und Quellen](MODLIST.md).
+- Das aktuelle Pack enthält **69 Mods, 29 Ressourcenpacks, 19 direkte Shaderarchive plus Cozy als lokale Variante**. [Alle Downloads und Quellen](MODLIST.md).
 
 ## Gemeinsame Bedienung
 
