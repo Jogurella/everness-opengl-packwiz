@@ -1,9 +1,0 @@
-name = "SEUS PTGI HRR Test 2.1 GFME 1.22 RC1"
-filename = "SEUS PTGI HRR Test 2.1 GFME 1.22 RC1.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-seus-ptgi-hrr-test-2-1-gfme-1-22-rc1-54e6bbef1a.zip"
-hash-format = "sha512"
-hash = "54e6bbef1ac1b882642d181fed5c0285eb5b28659d55fde534bcb6c2bb3893543ec48c40445df11320c0e4574eb82601f67eb0f3f0817435733e6c08435aaaeb"

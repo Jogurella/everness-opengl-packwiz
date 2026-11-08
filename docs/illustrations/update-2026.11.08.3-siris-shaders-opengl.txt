@@ -1,0 +1,8 @@
+Use case: ads-marketing. Create a polished 16:9 update cover for Everness Minecraft modpack OpenGL version 2026.11.08.3 in the established Everness update style: high quality Minecraft voxel illustration, dark information panel, very legible white block text with green/teal accents. Show a different composition than a Vulkan valley: a cozy Minecraft stone-and-oak courtyard overlooking green hills and reflective water, with pleasant blocky sunlight and distinct pixelated shadows. The content is simplification to two shaders with the user's own settings, while keeping Purescale. This is a conceptual illustration, not a screenshot or benchmark. Put ONLY this German text on a large dark panel:
+"EVERNESS OPENGL"
+"UPDATE 2026.11.08.3"
+"Zwei Shader. Deine Einstellungen."
+"Pixelated + Unbound"
+"Purescale bleibt erhalten"
+Small clear footer "Beispielbild".
+Use exact spelling, generous spacing, unclipped text, readable at thumbnail size. No SIRIS for OpenGL, no numeric FPS claims, no logos, unrelated packs, extra prose, HUD or comparison chart. Sharp Minecraft pixels, beautiful restrained shader-like lighting, premium clean layout.

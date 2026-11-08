@@ -1,9 +1,0 @@
-name = "BSL_v10.1.8"
-filename = "BSL_v10.1.8.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-bsl-v10-1-8-b6d5f67b1c.zip"
-hash-format = "sha512"
-hash = "b6d5f67b1ce7510c1d04b6cb1ae1046d463f6bc123cbdddbfa5d3e1d1fb89b2f19687f8090e20a5190f16df0325c9c4ecb7fd27ae2b7480fc850dd5d2bf92f12"

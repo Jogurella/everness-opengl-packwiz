@@ -217,7 +217,7 @@ preserve = true
 
 [[files]]
 file = "config/iris.properties"
-hash = "a992615a433d59ff6be787c16d3cb2fb952ba818c1fb48a3fd01bd64b90fe4fe"
+hash = "6db93a7c457bf5590a9d5ff225240a9f8a09f565e4b343762abb352818380473"
 preserve = true
 
 [[files]]
@@ -627,11 +627,11 @@ preserve = true
 
 [[files]]
 file = "downloads/SHA256SUMS.txt"
-hash = "1da89e6fcdda091e5174b14ccbd6652b5ecd25fa8899bd307cce875ec615e07d"
+hash = "fe51efbed8e8b47349908bd954de21c6fbecaf70264efe15480c487e45c919c4"
 
 [[files]]
-file = "downloads/mods/everness-cozy-setup-1.0.0.jar"
-hash = "572acfde221af6dc314818dfe8f3ec59ed1b14ca173123ba6ba2f118a6a32d3a"
+file = "downloads/mods/everness-shader-setup-1.0.0.jar"
+hash = "9c1bfb121bf629e6b2edc2caa42d0a269228753b46477d085b60ac12c0ba8a9c"
 
 [[files]]
 file = "mods/3dskinlayers-1a93ba9f72-6fa834.pw.toml"
@@ -709,11 +709,6 @@ hash = "9cfdf1f64d904b548a80321714897a87f019d858cde89332ad4a7dc026930c77"
 metafile = true
 
 [[files]]
-file = "mods/cozy-companion-setup.pw.toml"
-hash = "81e3ca035e3e420c96a30603923838168b68024368eb7a2336e9dd29f636dcf5"
-metafile = true
-
-[[files]]
 file = "mods/creativecore-bcf7b1dae1-edc855.pw.toml"
 hash = "3d83a7f7ab80aa696d8b87dea5511006aa129b0a42c3db4bde8c1bbaf98ea06f"
 metafile = true
@@ -741,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/evergreenhud-da756e.pw.toml"
 hash = "02c2090dd63942480951927604891a9793f33780d47390788deb9411b070f781"
+metafile = true
+
+[[files]]
+file = "mods/everness-shader-setup.pw.toml"
+hash = "f911f91a0cdd9bd477c957177ac20f6d1e34fe15f6c546ae780bd72d3f9341f5"
 metafile = true
 
 [[files]]
@@ -1139,153 +1139,18 @@ hash = "eb86033e352d11931a9653cb27d4c2a5a26c84519774ea800e1350697b210904"
 preserve = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "597bc6b19da9463b3be143bf0a32173a34bdb7a1bdb37e2b398f336a070af6fa"
-preserve = true
-
-[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.txt"
-hash = "1050de6d38d481c9ae3ce2527dce2ea0825935602688785689d4d255eb4f624c"
+hash = "e341f3eb4f4f72582c07ace1739f605a133a70e09ba79630b3dbd41bc69a899f"
 preserve = true
 
 [[files]]
-file = "shaderpacks/Cozy-Companion-r3.zip.txt"
-hash = "6cfaf736f3520c717038308994217f81865e66b581ba4951361d5c2b3a410396"
+file = "shaderpacks/Pixelated.zip.txt"
+hash = "e0fbd88f0cb2dad8a7951c9e7a05f5ac1b31f5f4eec44951c9e34f680809b622"
 preserve = true
-
-[[files]]
-file = "shaderpacks/I Like Vanilla v1.5.0b.zip.txt"
-hash = "55233bb704da0c9415e270ffaebb6e93da536006eb96dcafa9bda30384ba8cc0"
-preserve = true
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.6.zip.txt"
-hash = "cceeefb32680b724c2bb03842b8f64ec4665dd65180143b4d377d8617ee76327"
-preserve = true
-
-[[files]]
-file = "shaderpacks/SEUS PTGI HRR Test 2.1 GFME 1.22 RC1.zip.txt"
-hash = "c454f080aba694635156b4f4702d12e8747ef44277b0d8139154e0b8b92eef66"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Solas Shader V3.7b.zip.txt"
-hash = "f7e22797483f74c4ec897098be94d7da60e0d9a95e937d4ef38474caa0195bd4"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Solas Shader V3.8 - Pixel Sanft.zip.txt"
-hash = "067fc1ccb117f9ff5ff8a77f29b0da6512ff9e82511529fbec7926ba28a1659a"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Solas Shader V3.8.zip.txt"
-hash = "cd4b0ece85efb91e5e355fa486fc773b700dd16192bf2bfdea4c96919e5103fd"
-preserve = true
-
-[[files]]
-file = "shaderpacks/Tobias-Pixel.zip.txt"
-hash = "cefef975d4836da5e7ef8599277224b5bee94fa1f17e68ed5ec05d094b6d07e0"
-preserve = true
-
-[[files]]
-file = "shaderpacks/bliss-shaders-neu-5dcebc0246.pw.toml"
-hash = "14a64b99f6b5b144b8d7a1a560fdb324ebd83c6c0ba98a5ed2c30811257d972b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-v10-1-8-b6d5f67b1c.pw.toml"
-hash = "ee5caf0f3d7f0731104d4cf2020be11fc04abcf989dc8731b5ac714277c09dba"
-metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound-a085d1d8cd-69cd93.pw.toml"
 hash = "ba55306e34f5395e126d3fd78b730d79c95d64ef79b3aa68f0956ad6f3c16ca2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementaryreimagined-r5-9-3-9da7d740df.pw.toml"
-hash = "ce6a1acca8af1510690e152d29cc48add05996dbf9e0402655ff0186d2169c75"
-metafile = true
-
-[[files]]
-file = "shaderpacks/derivative-main-d24-4-4-neu-013159603c.pw.toml"
-hash = "343449d745beaabd28484803ca3826df267c8178cf629f55eb8e51dd4860e8d4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/eclipse-neu-dcd0a210ac.pw.toml"
-hash = "2de6a628ce147601843ca790460a94e22e343f2726b78ec61468e868f4e7dcfa"
-metafile = true
-
-[[files]]
-file = "shaderpacks/fantasy-shaders-8750fcf9f7-7c4809.pw.toml"
-hash = "4a16a03a3784488de5db0b094dd3c58512e8af0af76bd6c6c156da3f272d0916"
-metafile = true
-
-[[files]]
-file = "shaderpacks/i-like-vanilla-8a6594acb0-6521ad.pw.toml"
-hash = "208b9e33d0ac4aaa1883bd600223bb8a28a0c76573ddbf06056a453f85ca4208"
-metafile = true
-
-[[files]]
-file = "shaderpacks/lux-v1-bbb3e44c21-e647b4.pw.toml"
-hash = "5e1a5cc359a50c9d068e1e7b221752fe85f15458b3511a30e46498cd83fb99f2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders-fa7af14ac1-dbc77a.pw.toml"
-hash = "ab5d4cba66230c72ccc8ae6ef45d7fcca304a1fa85f71ff4f01a590a1c846909"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-v1-4-4b8dde.pw.toml"
-hash = "e014b81aca4b7f264f9c2279b08fb014e56cd833e04a2fc383a3b9c81039fc09"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon_v1.4.zip.txt"
-hash = "8b9e37017be5901e6594f401018fabe4c0df44c7f7a5b84896fcb89da090fcb1"
-preserve = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels-1e32f41e67-777399.pw.toml"
-hash = "8829d35fadfcabdeb76842be6d5c3fd1b3373a7d90c19a920fb450f94f60ff5e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/seus-ptgi-hrr-test-2-1-gfme-1-22-rc1-54e6bbef1a.pw.toml"
-hash = "5266a1d5acd58a382edaf855d5339c8cab05b9a343e3e8796973b96f2769646c"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple-neu-1527b3d217.pw.toml"
-hash = "7904776ec389db3257db20eef88c37593fef248644c64fa7e58bed1e61149832"
-metafile = true
-
-[[files]]
-file = "shaderpacks/sildur-s-vibrant-shaders-v2-02-extreme-1e75edf13f.pw.toml"
-hash = "247739fed8c667c653c10f929aea7f984a1876ac26c89063ef8044c87daea3e3"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader-7ba3849628-18bf72.pw.toml"
-hash = "6dd7c3cfd2e70fe7fb18620008ff1c8cc60045edd01d63fb309273451227426b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader-7ba3849628-2efec1.pw.toml"
-hash = "00da12c7a999467618eb26b79d5c7f5d3aadb480f0583f970e20fafde80c54a1"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader-v3-7b-6af2275285.pw.toml"
-hash = "b6961bbbd67bf0ee9c0747b5f71ad47321dec6588682e7496a9aa17d3f401d18"
-metafile = true
-
-[[files]]
-file = "shaderpacks/tobias-pixel-2f71832bfc.pw.toml"
-hash = "b8ef6711b77f03165367b2a42758bde7d5927c7ff16499d0576834fa8cd638a8"
 metafile = true
 
 [[files]]

@@ -1,9 +1,0 @@
-name = "Sildur's Vibrant Shaders v2.02 Extreme"
-filename = "Sildur's Vibrant Shaders v2.02 Extreme.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-sildur-s-vibrant-shaders-v2-02-extreme-1e75edf13f.zip"
-hash-format = "sha512"
-hash = "1e75edf13f62a57ceb6a7f5e0944e5a7daab536943b555997f84f81e9702fd3d0e2887d853349d9b78b4dd551585bd563de0b63b031e0d5464b23c08dba5f08e"

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse,hashlib,json,pathlib,tomllib,urllib.parse
+import argparse,hashlib,json,pathlib,tomllib,urllib.parse,zipfile
 p=argparse.ArgumentParser();p.add_argument('--root',type=pathlib.Path,default=pathlib.Path(__file__).resolve().parents[1]);a=p.parse_args();r=a.root
 pack=tomllib.loads((r/'pack.toml').read_text());idx=r/pack['index']['file']
 assert hashlib.new(pack['index']['hash-format'],idx.read_bytes()).hexdigest()==pack['index']['hash']
@@ -22,7 +22,19 @@ for item in manifest['files']:
     assert entries[item['path']].get('preserve') is True,item['path']
 assert 'config/punchy/profiles/.active_profile' in entries
 assert any('weather-glass' in p.name for p in (r/'mods').glob('*.pw.toml'))
-assert (r/'patches/cozy-companion-setup/dev/everness/cozy/CozySetup.java').is_file()
+assert (r/'patches/pixelated-setup/dev/everness/shaders/ShaderSetup.java').is_file()
 assert pack['versions']=={'fabric':'0.20.1','minecraft':'26.3'}
 assert pack['options']['everness']['settings-sha256']==hashlib.sha256((r/'settings-manifest.json').read_bytes()).hexdigest()
+assert pack['version']=='2026.11.08.3'
+assert len(list((r/'shaderpacks').glob('*.pw.toml')))==1
+assert sorted(p.name for p in (r/'shaderpacks').glob('*.zip.txt'))==['ComplementaryUnbound_r5.9.3.zip.txt','Pixelated.zip.txt']
+all_mods=[tomllib.loads(p.read_text()) for p in (r/'mods').glob('*.pw.toml')]
+assert not any('cozy' in m['filename'].lower() for m in all_mods)
+assert any(m['filename']=='everness-shader-setup-1.0.0.jar' for m in all_mods)
+assert any('siris-' in m['filename'] for m in all_mods)==False
+assert any('purescale' in m['filename'].lower() for m in all_mods)==True
+with zipfile.ZipFile(r/'downloads/Everness-opengl-Prism-Starter.zip') as starter:
+    assert not any(n.startswith('minecraft/mods/') for n in starter.namelist())
+    assert not any(n.startswith('minecraft/shaderpacks/') and n.endswith('.zip') for n in starter.namelist())
+    for row in manifest['files']:assert hashlib.sha256(starter.read('minecraft/'+row['path'])).hexdigest()==row['sha256']
 print(json.dumps({'pack':pack['name'],'index_files':len(index['files']),'download_metadata':count,'local_additions':len(all_paths),'result':'PASS'}))

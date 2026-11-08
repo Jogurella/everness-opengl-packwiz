@@ -1,9 +1,0 @@
-name = "Solas Shader V3.7b"
-filename = "Solas Shader V3.7b.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-solas-shader-v3-7b-6af2275285.zip"
-hash-format = "sha512"
-hash = "6af2275285eed5509d1b9c93487b741cf8dfcf351ba1b7c926e16d57cd8808a5098a61cf252ea54a1cb4ef2c3670eb45d923881d99b751636cc355f64a2d128a"

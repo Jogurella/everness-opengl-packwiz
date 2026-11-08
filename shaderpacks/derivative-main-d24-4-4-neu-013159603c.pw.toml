@@ -1,9 +1,0 @@
-name = "Derivative Main d24.4.4 - Neu"
-filename = "Derivative Main d24.4.4 - Neu.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-derivative-main-d24-4-4-neu-013159603c.zip"
-hash-format = "sha512"
-hash = "013159603c3be003422e5986225c9e78981ec031de297868ed1b4af00cbdc02a8cae0a46c042818fd08a9a9d515bae95047b6770276006be4bfec496d71f2d34"

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026.11.08.2",
+  "version": "2026.11.08.3",
   "profile": "Everness-OpenGL",
   "files": [
     {
@@ -177,7 +177,7 @@
     },
     {
       "path": "config/iris.properties",
-      "sha256": "a992615a433d59ff6be787c16d3cb2fb952ba818c1fb48a3fd01bd64b90fe4fe"
+      "sha256": "6db93a7c457bf5590a9d5ff225240a9f8a09f565e4b343762abb352818380473"
     },
     {
       "path": "config/itemphysiclite-client.json",
@@ -516,48 +516,12 @@
       "sha256": "eb86033e352d11931a9653cb27d4c2a5a26c84519774ea800e1350697b210904"
     },
     {
-      "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
-      "sha256": "597bc6b19da9463b3be143bf0a32173a34bdb7a1bdb37e2b398f336a070af6fa"
-    },
-    {
       "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip.txt",
-      "sha256": "1050de6d38d481c9ae3ce2527dce2ea0825935602688785689d4d255eb4f624c"
+      "sha256": "e341f3eb4f4f72582c07ace1739f605a133a70e09ba79630b3dbd41bc69a899f"
     },
     {
-      "path": "shaderpacks/Cozy-Companion-r3.zip.txt",
-      "sha256": "6cfaf736f3520c717038308994217f81865e66b581ba4951361d5c2b3a410396"
-    },
-    {
-      "path": "shaderpacks/I Like Vanilla v1.5.0b.zip.txt",
-      "sha256": "55233bb704da0c9415e270ffaebb6e93da536006eb96dcafa9bda30384ba8cc0"
-    },
-    {
-      "path": "shaderpacks/MakeUp-UltraFast-9.6.zip.txt",
-      "sha256": "cceeefb32680b724c2bb03842b8f64ec4665dd65180143b4d377d8617ee76327"
-    },
-    {
-      "path": "shaderpacks/SEUS PTGI HRR Test 2.1 GFME 1.22 RC1.zip.txt",
-      "sha256": "c454f080aba694635156b4f4702d12e8747ef44277b0d8139154e0b8b92eef66"
-    },
-    {
-      "path": "shaderpacks/Solas Shader V3.7b.zip.txt",
-      "sha256": "f7e22797483f74c4ec897098be94d7da60e0d9a95e937d4ef38474caa0195bd4"
-    },
-    {
-      "path": "shaderpacks/Solas Shader V3.8 - Pixel Sanft.zip.txt",
-      "sha256": "067fc1ccb117f9ff5ff8a77f29b0da6512ff9e82511529fbec7926ba28a1659a"
-    },
-    {
-      "path": "shaderpacks/Solas Shader V3.8.zip.txt",
-      "sha256": "cd4b0ece85efb91e5e355fa486fc773b700dd16192bf2bfdea4c96919e5103fd"
-    },
-    {
-      "path": "shaderpacks/Tobias-Pixel.zip.txt",
-      "sha256": "cefef975d4836da5e7ef8599277224b5bee94fa1f17e68ed5ec05d094b6d07e0"
-    },
-    {
-      "path": "shaderpacks/photon_v1.4.zip.txt",
-      "sha256": "8b9e37017be5901e6594f401018fabe4c0df44c7f7a5b84896fcb89da090fcb1"
+      "path": "shaderpacks/Pixelated.zip.txt",
+      "sha256": "e0fbd88f0cb2dad8a7951c9e7a05f5ac1b31f5f4eec44951c9e34f680809b622"
     },
     {
       "path": "upscalepacks/SharpBilinearExample/shader.fsh",

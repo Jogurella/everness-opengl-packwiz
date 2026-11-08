@@ -1,9 +1,0 @@
-name = "Bliss Shaders - Neu"
-filename = "Bliss Shaders - Neu.zip"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/shaderpack-bliss-shaders-neu-5dcebc0246.zip"
-hash-format = "sha512"
-hash = "5dcebc024658a20e5c53fd30d77d9f6bb41a806e64390894282a6e9e2a3b2f5f9bf23ed194bd5efae1c7056becbfe8225a09a8f2cb15a9210047bddaf101f3c7"

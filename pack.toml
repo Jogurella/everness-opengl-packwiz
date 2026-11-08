@@ -1,12 +1,12 @@
 name = "Everness Visuals - OpenGL"
 author = "Everness"
-version = "2026.11.08.2"
+version = "2026.11.08.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fcc83084e8851cd3b84c822000ba0b615a63845374e71cc27bd262ec4e6b6267"
+hash = "725a1ead544c609027148905370251beef520082f24484f1c4f71fe8d1dbe085"
 
 [versions]
 fabric = "0.20.1"
@@ -14,6 +14,6 @@ minecraft = "26.3"
 
 [options]
 [options.everness]
-news-image = ".github/assets/update-2026.11.08.2-weather-cozy-opengl.png"
-settings-sha256 = "f6ed26618eb603f35df4911c8e1cb71cd925ac4c17286885a86ebee24ce37c6c"
+news-image = ".github/assets/update-2026.11.08.3-siris-shaders-opengl.png"
+settings-sha256 = "1211ae1e7b3eb8de2e5ae04c2a09ec80870d3b72fd6f4e7e23645b02f95e68f2"
 settings-template = "settings-manifest.json"
