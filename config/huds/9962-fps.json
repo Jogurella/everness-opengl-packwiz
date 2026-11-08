@@ -1,17 +1,17 @@
 {
-	"showInScreens": false,
-	"showShadow": true,
-	"layoutRefH": 0.0,
+	"showInScreens": true,
+	"showShadow": false,
+	"layoutRefH": 720.0,
 	"bgChroma": false,
 	"customScale": 1.0,
 	"prefix": "FPS: ",
-	"relativeY": 8.0,
+	"relativeY": 3.0,
 	"shadowChroma": false,
-	"relativeX": 10.0,
+	"relativeX": -164.0,
 	"accuracy": 0,
 	"section": {
 		"class": "org.polyfrost.oneconfig.api.hud.v1.Section",
-		"value": "TopLeft"
+		"value": "TopCenter"
 	},
 	"suffix": "",
 	"showRange": [
@@ -31,9 +31,9 @@
 	"textColor": -1,
 	"bgChromaSpeed": 1.0,
 	"brackets": false,
-	"layoutRefW": 0.0,
+	"layoutRefW": 1281.0,
 	"textUnderline": false,
-	"padBottom": 3.0,
+	"padBottom": 4.0,
 	"hideAboveNumber": 0,
 	"alignment": {
 		"class": "org.polyfrost.compose.layout.PolyAlign",
@@ -59,17 +59,17 @@
 	"spacingMigrated": true,
 	"caseType": 0,
 	"posSchema": 1,
-	"padRight": 5.0,
+	"padRight": 4.0,
 	"bgColor": -2147483648,
 	"textWeight": {
 		"class": "org.polyfrost.oneconfig.api.hud.v1.Weight",
 		"value": "Regular"
 	},
 	"trailingZeros": true,
-	"padLeft": 5.0,
-	"mergeBackground": false,
-	"padTop": 3.0,
-	"showInF3": false,
+	"padLeft": 4.0,
+	"mergeBackground": true,
+	"padTop": 4.0,
+	"showInF3": true,
 	"showInTab": true,
 	"textChroma": false,
 	"textScale": 1.0,
@@ -90,5 +90,5 @@
 		"class": "org.polyfrost.oneconfig.api.hud.v1.Font",
 		"value": "Minecraft"
 	},
-	"bgRadius": 3.0
+	"bgRadius": 4.0
 }

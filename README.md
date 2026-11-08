@@ -1,41 +1,25 @@
-# Everness Visuals — OpenGL
+# Everness Opengl – 2026.11.08.1
 
-**Minecraft 26.3 · Fabric 0.19.5 · Java 25 · Pack-Version 2026.11.07.2**
+HUD, Hotkeys und gemeinsame Mod-Einstellungen entsprechen der Vulkan-Vorlage.
 
-Iris, Voxy und Nvidium. Vollständiger Archivstand des bisherigen Prism-Profils: **114 Downloads**, einschließlich aller lokalen Mod-, Ressourcenpack- und Shaderanpassungen. **Keine zusätzliche lokale Dateisammlung erforderlich.**
+![Everness-Update 2026.11.08.1](.github/assets/update-2026.11.08.1-hud-sync.png)
 
-## In Prism installieren
+[Änderungsnotizen](CHANGELOG.md) · [Tatsächlicher Prüfstand und Grenzen](PACK-STATUS.md) · [Einstellungen übernehmen](SETTINGS.md)
 
-1. Unter [Releases](https://github.com/Jogurella/everness-opengl-packwiz/releases/tag/v2026.11.07.2) **Everness-opengl-Prism-Starter.zip** herunterladen.
-2. In Prism **Instanz hinzufügen → Import aus ZIP** wählen und diese ZIP importieren.
-3. Java 25 verwenden, dein Microsoft-Konto im Launcher selbst anmelden und starten. Der Pre-Launch-Updater lädt das vollständige Pack automatisch und prüft die Dateien.
+## Installieren
 
-Der neue Starter wird getrennt importiert. Es erfolgt kein automatischer Serverbeitritt. **Forever Ever Server** ist bereits in der Serverliste eingetragen.
+- [Prism-Starter herunterladen](downloads/Everness-opengl-Prism-Starter.zip), als Instanz in Prism importieren und Java 25 verwenden.
+- Bei bestehender Installation das Pack aktualisieren. Für den vollständigen Einstellungsabgleich zusätzlich das [Einstellungspaket](downloads/Everness-opengl-Einstellungen.zip) einmal mit Sicherung anwenden; [Anleitung](SETTINGS.md).
+- Das aktuelle Pack enthält **67 Mods, 29 Ressourcenpacks und 19 Shaderarchive**. [Alle Downloads und Quellen](MODLIST.md).
 
-## Packwiz-URL
+## Gemeinsame Bedienung
 
-[https://raw.githubusercontent.com/Jogurella/everness-opengl-packwiz/main/pack.toml](https://raw.githubusercontent.com/Jogurella/everness-opengl-packwiz/main/pack.toml)
+HUD, Jade, Minimap, FOV, Vollbild, Ressourcenpack-Reihenfolge, Punchy-Profil und QoL-Optionen stammen aus derselben Vulkan-Vorlage. **Alt+B** schaltet AutoSwitch um; Tastenkombination und Item-Ausschlüsse sind im Modmenü einstellbar. **Ziffernblock \*** schaltet den Shader, **Ziffernblock +** lädt ihn neu, **O** öffnet die Shaderauswahl. Die Bezeichnungen der Shader-Funktionen werden jeweils an Iris bzw. Vitrail angepasst.
 
-Für eigene Launcher und bestehende packwiz-Installationen:
+## Grafikkomponenten
 
-```text
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client https://raw.githubusercontent.com/Jogurella/everness-opengl-packwiz/main/pack.toml
-```
+OpenGL mit Iris 1.11.7 und Voxy 0.2.20-beta. Nvidium und OBE bleiben rendererbezogene Ergänzungen. Die gemeinsame Mod-Basis, der Kartenclient sowie die vier gemeinsamen Shader entsprechen dem Vulkan-Pack. Zusätzliche vorhandene OpenGL-Shader bleiben verfügbar.
 
-Die offizielle Bootstrap-JAR liegt im Minecraft-Ordner des Prism-Starters. Wer bereits die frühere Starter-Version verwendet, erhält die zusätzlichen Archive beim nächsten packwiz-Update über dieselbe Pack-URL.
+100 % Render-Skalierung ist der veröffentlichte Standard. Ein erfolgreicher Offline-Lauf belegt keine allgemeine Absturzfreiheit. **Zusätzliche native Startabbrüche wurden beobachtet und bleiben offen**; Details und einzelne Ergebnisse stehen im [Prüfbericht](PACK-STATUS.md). Es wurde kein Multiplayer-Server betreten.
 
-## Einstellungen und Hotkeys
-
-Die vollständige Einstellungsübernahme wurde korrigiert, einschließlich Punchy-Profilwahl und Launcher-Fensterwerten. Im Everness-Launcher wird der vollständige Vorlagenstand **automatisch vor dem Spielstart mit Sicherung übernommen**: [Einstellungsanleitung](SETTINGS.md). Der neue Starter bringt alle Optionen schon mit.
-
-## Enthalten
-
-66 Mod-JARs, 29 Ressourcenpacks und 19 Shaderarchive. Die bisherigen Tastenbelegungen, Mod-Einstellungen, HUDs, Shaderprofile und die Ressourcenpack-Reihenfolge sind übernommen. Quellen und exakte SHA-512-Hashes stehen in den `*.pw.toml`-Dateien; [Mod-/Packliste](MODLIST.md) und [Pack-Status](PACK-STATUS.md) erläutern den Stand.
-
-Accountdateien, Cookies, Spielstände und persönliche Karten-/LOD-Caches werden nicht verteilt. Der Export verändert die bestehenden Spielprofile nicht.
-
-## Wartung
-
-Mit [packwiz](https://packwiz.infra.link/) bearbeiten. Nach beabsichtigten Änderungen `packwiz refresh` und `python tools/validate.py` ausführen. Downloads bleiben gepinnt, damit Versionsupdates die Renderer und persönlichen Fixes nicht stillschweigend verändern. Updates gezielt testen.
-
-Die Archivstände enthalten zum Teil lokale Änderungen. Es sind keine offiziellen Autoren-Builds; vorhandene Credits und Drittanbieter-Lizenzen bleiben erhalten. Siehe [THIRD-PARTY.md](THIRD-PARTY.md).
+Persönliche Konten, Welten, Karten-/LOD-Caches und Logdateien sind nicht enthalten. Lizenzen und Quellen: [THIRD-PARTY.md](THIRD-PARTY.md).

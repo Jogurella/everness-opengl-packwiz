@@ -1,13 +1,13 @@
 {
-  "version": "2026.11.07.2",
+  "version": "2026.11.08.1",
   "minecraft": "26.3",
   "fabric": "0.19.5",
   "renderer": "opengl",
   "sourceProfile": "Everness-OpenGL",
-  "archiveCount": 114,
-  "managedArchiveCount": 114,
+  "archiveCount": 115,
+  "managedArchiveCount": 115,
   "manualArchiveCount": 0,
-  "settingsFileCount": 133,
+  "settingsFileCount": 139,
   "accountSanitization": [
     "config/litematica.json: absolute machine path cleared",
     "config/my_totem_doll.json5: personal default skin removed"
@@ -28,5 +28,12 @@
         "change": "customSchematicBaseDirectory uses relative schematics folder"
       }
     ]
+  },
+  "update20261108": {
+    "settingsSource": "Published Vulkan defaults",
+    "hudAndQolAligned": true,
+    "differentRendererAdapters": true,
+    "offlineServerOnly": true,
+    "nativeDepthCrashTest": "See PACK-STATUS.md"
   }
 }

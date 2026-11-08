@@ -1,17 +1,17 @@
 {
 	"showInScreens": true,
 	"showShadow": false,
-	"layoutRefH": 0.0,
+	"layoutRefH": 720.0,
 	"bgChroma": false,
 	"albumTextSaturation": 100.0,
 	"customScale": 1.0,
-	"relativeY": 53.0,
+	"relativeY": 19.666687,
 	"shadowChroma": false,
-	"relativeX": 1.0,
+	"relativeX": 145.66669,
 	"popIn": true,
 	"section": {
 		"class": "org.polyfrost.oneconfig.api.hud.v1.Section",
-		"value": "TopRight"
+		"value": "BottomLeft"
 	},
 	"concentricArt": true,
 	"artCornerRadius": 6.0,
@@ -57,7 +57,7 @@
 		],
 		"class": "org.polyfrost.compose.render.PolyColor"
 	},
-	"layoutRefW": 0.0,
+	"layoutRefW": 1281.0,
 	"textUnderline": false,
 	"textSource": 0,
 	"timeColor": {
@@ -149,7 +149,7 @@
 	"playPauseKey": {
 		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen"
 	},
-	"onlyInGuis": false,
+	"onlyInGuis": true,
 	"nextKey": {
 		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.BindNotInScreen"
 	},

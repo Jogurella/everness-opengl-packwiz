@@ -1,10 +1,10 @@
 {
 	"showInScreens": false,
 	"showShadow": true,
-	"layoutRefH": 0.0,
+	"layoutRefH": 720.0,
 	"bgChroma": false,
 	"customScale": 1.0,
-	"relativeY": 38.0,
+	"relativeY": 3.0,
 	"shadowChroma": false,
 	"relativeX": 0.0,
 	"section": {
@@ -32,7 +32,7 @@
 	"staticWidth": true,
 	"textColor": -1,
 	"bgChromaSpeed": 1.0,
-	"layoutRefW": 0.0,
+	"layoutRefW": 1281.0,
 	"textUnderline": false,
 	"padBottom": 0.0,
 	"alignment": {

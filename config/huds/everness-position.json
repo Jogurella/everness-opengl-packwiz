@@ -1,19 +1,19 @@
 {
 	"showInScreens": false,
 	"showShadow": true,
-	"layoutRefH": 0.0,
+	"layoutRefH": 720.0,
 	"bgChroma": false,
 	"customScale": 1.0,
 	"prefix": "",
-	"relativeY": 30.0,
+	"relativeY": 2.8673096,
 	"shadowChroma": false,
-	"relativeX": 10.0,
+	"relativeX": -163.66669,
 	"perAxisColors": false,
 	"accuracy": 2,
 	"showYaw": false,
 	"section": {
 		"class": "org.polyfrost.oneconfig.api.hud.v1.Section",
-		"value": "BottomLeft"
+		"value": "BottomCenter"
 	},
 	"suffix": "",
 	"anchorOffsetY": 0.0,
@@ -57,7 +57,7 @@
 	"displayMode": 0,
 	"bgChromaSpeed": 1.0,
 	"brackets": false,
-	"layoutRefW": 0.0,
+	"layoutRefW": 1281.0,
 	"textUnderline": false,
 	"yColor": {
 		"value": [
@@ -116,7 +116,7 @@
 	"showInF3": false,
 	"showInTab": true,
 	"textChroma": false,
-	"textScale": 1.0,
+	"textScale": 0.9117862,
 	"useGuiScale": true,
 	"shadowChromaSpeed": 1.0,
 	"growthAnchor": {

@@ -39,7 +39,7 @@
 	"instantSearch": true,
 	"enableUIMusicDucking": true,
 	"guiOpenAnimation": true,
-	"hudEditorTourSeen": false,
+	"hudEditorTourSeen": true,
 	"hudLockKeybind": {
 		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind",
 		"keyCodes": [

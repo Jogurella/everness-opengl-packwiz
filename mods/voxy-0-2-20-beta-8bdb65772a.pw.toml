@@ -1,9 +1,0 @@
-name = "Voxy"
-filename = "voxy-0.2.20-beta.jar"
-side = "client"
-pin = true
-
-[download]
-url = "https://github.com/Jogurella/everness-opengl-packwiz/releases/download/v2026.11.06.1/mod-voxy-0-2-20-beta-8bdb65772a.jar"
-hash-format = "sha512"
-hash = "8bdb65772a375fdd6b8efd492946a715e89d7551209be6b67cf148fcec01c68f82e049a5b4b03af79dbc833c195cb44d3634b802db459a18769adc1b0dc879e8"

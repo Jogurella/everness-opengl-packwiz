@@ -1,7 +1,7 @@
 version:5023
 ao:false
 biomeBlendRadius:2
-chunkSectionFadeInTime:0.75
+chunkSectionFadeInTime:0.0
 cutoutLeaves:true
 enableVsync:false
 entityDistanceScaling:1.0
@@ -16,7 +16,7 @@ glintStrength:0.75
 preferredGraphicsBackend:"opengl"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
-fullscreen:false
+fullscreen:true
 exclusiveFullscreen:true
 macFullscreenMenuVisibility:false
 guiScale:3
@@ -32,8 +32,8 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"false"
 cloudRange:2
-renderDistance:15
-simulationDistance:15
+renderDistance:17
+simulationDistance:17
 screenEffectScale:1.0
 soundDevice:""
 vignette:false
@@ -65,7 +65,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","punchy:punchy","continuity:default","continuity:glass_pane_culling_fix","file/VanillaTweaks_r144903_MC1.21.x.zip","file/3D Default 1.21.2+ v1.16.0.zip","file/§f§lActually §6§l3D §fBlocks \u0026 Items!§7.zip","file/Fyoncle\u0027s 3D Trims.zip","file/Glowing 3D Armor.zip","file/FreshAnimations_v1.11.2_26.1+.zip","file/FA+Details-v2.4.zip","file/FA+Emissive-v1.7.zip","file/FA+Objects-v2.1.2.zip","file/FA+Quivers-v2.3.zip","file/FA+Classic_Horses-v1.6.2.zip","file/FA+Creepers-v2.2.zip","file/FA+Spiders-v2.3.1.zip","file/Assorted Frogs x FA - V.1.0.1.zip","file/FA+Player-v1.1.zip","file/Glowing 3D Armor x FA.zip","file/3D Harness x Fresh Animations.zip","file/Better-Leaves-9.6.zip","file/Animated 3D Wind Charge [1.1].zip","file/Flowering Crops (26.3).zip","file/Fresh Food.zip","file/macebut3d-1.0.1.zip","file/§aBetter Fresher 3D Books v1.5.1.zip","file/Enchantment Outlines.zip","file/Darkmode - V.1.2 - jannik6879.zip","file/§lColourful Containers§8.zip","file/enchant-icons-1.21.11-v1.3.zip"]
+resourcePacks:["oneconfig_sounds","vanilla","punchy:punchy","continuity:default","continuity:glass_pane_culling_fix","file/VanillaTweaks_r144903_MC1.21.x.zip","file/3D Default 1.21.2+ v1.16.0.zip","file/§f§lActually §6§l3D §fBlocks \u0026 Items!§7.zip","file/Fyoncle\u0027s 3D Trims.zip","file/Glowing 3D Armor.zip","file/FreshAnimations_v1.11.2_26.1+.zip","file/FA+Details-v2.4.zip","file/FA+Emissive-v1.7.zip","file/FA+Objects-v2.1.2.zip","file/FA+Quivers-v2.3.zip","file/FA+Classic_Horses-v1.6.2.zip","file/FA+Creepers-v2.2.zip","file/FA+Spiders-v2.3.1.zip","file/Assorted Frogs x FA - V.1.0.1.zip","file/FA+Player-v1.1.zip","file/Glowing 3D Armor x FA.zip","file/3D Harness x Fresh Animations.zip","file/Better-Leaves-9.6.zip","file/Animated 3D Wind Charge [1.1].zip","file/Flowering Crops (26.3).zip","file/Fresh Food.zip","file/macebut3d-1.0.1.zip","file/§aBetter Fresher 3D Books v1.5.1.zip","file/Enchantment Outlines.zip","file/Darkmode - V.1.2 - jannik6879.zip","file/§lColourful Containers§8.zip","file/enchant-icons-1.21.11-v1.3.zip"]
 oneconfig_legacy_resourcePacks:["vanilla","punchy:punchy","continuity:default","continuity:glass_pane_culling_fix","file/VanillaTweaks_r144903_MC1.21.x.zip","file/3D Default 1.21.2+ v1.16.0.zip","file/§f§lActually §6§l3D §fBlocks \u0026 Items!§7.zip","file/Fyoncle\u0027s 3D Trims.zip","file/Glowing 3D Armor.zip","file/FreshAnimations_v1.11.2_26.1+.zip","file/FA+Details-v2.4.zip","file/FA+Emissive-v1.7.zip","file/FA+Objects-v2.1.2.zip","file/FA+Quivers-v2.3.zip","file/FA+Classic_Horses-v1.6.2.zip","file/FA+Creepers-v2.2.zip","file/FA+Spiders-v2.3.1.zip","file/Assorted Frogs x FA - V.1.0.1.zip","file/FA+Player-v1.1.zip","file/Glowing 3D Armor x FA.zip","file/3D Harness x Fresh Animations.zip","file/Better-Leaves-9.6.zip","file/Animated 3D Wind Charge [1.1].zip","file/Flowering Crops (26.3).zip","file/Fresh Food.zip","file/macebut3d-1.0.1.zip","file/§aBetter Fresher 3D Books v1.5.1.zip","file/Enchantment Outlines.zip","file/Darkmode - V.1.2 - jannik6879.zip","file/§lColourful Containers§8.zip","file/enchant-icons-1.21.11-v1.3.zip"]
 incompatibleResourcePacks:["file/VanillaTweaks_r144903_MC1.21.x.zip","file/§f§lActually §6§l3D §fBlocks \u0026 Items!§7.zip","file/Assorted Frogs x FA - V.1.0.1.zip","file/enchant-icons-1.21.11-v1.3.zip"]
 oneconfig_legacy_incompatibleResourcePacks:["file/VanillaTweaks_r144903_MC1.21.x.zip","file/§f§lActually §6§l3D §fBlocks \u0026 Items!§7.zip","file/Assorted Frogs x FA - V.1.0.1.zip","file/enchant-icons-1.21.11-v1.3.zip"]
@@ -216,7 +216,7 @@ key_key.freecam.controlPlayer.toggle:key.keyboard.unknown
 key_key.freecam.tripod.reset:key.keyboard.unknown
 key_key.freecam.config.open:key.keyboard.unknown
 key_key.freecam.outlinePlayer.toggle:key.keyboard.unknown
-key_key.gammautils.gammaToggle:key.keyboard.g
+key_key.gammautils.gammaToggle:key.keyboard.unknown
 key_key.gammautils.increaseGamma:key.keyboard.up
 key_key.gammautils.decreaseGamma:key.keyboard.down
 key_key.gammautils.maxGamma:key.keyboard.unknown
@@ -282,10 +282,13 @@ key_key.purescale.settings:key.keyboard.f9
 key_key.raised.options:key.keyboard.grave.accent
 key_key.texturebuilder.toggle:key.keyboard.keypad.add
 key_key.texturebuilder.gradient_point:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.reload:key.keyboard.keypad.add
+key_iris.keybind.toggleShaders:key.keyboard.keypad.multiply
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.unknown
-key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_waypoints_key:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_toggle_waypoints:key.keyboard.unknown
@@ -312,14 +315,10 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.keypad.add
-key_iris.keybind.toggleShaders:key.keyboard.keypad.multiply
-key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.home
 key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.scroll.lock
 soundCategory_master:0.3090507686138153
-soundCategory_music:0.061421655118465424
+soundCategory_music:0.038464781400532375
 soundCategory_record:0.7863849997520447
 soundCategory_weather:0.4084506928920746
 soundCategory_block:0.6314554214477539

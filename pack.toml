@@ -1,12 +1,12 @@
 name = "Everness Visuals - OpenGL"
 author = "Everness"
-version = "2026.11.07.2"
+version = "2026.11.08.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "291346261246231ab1c4e6a6806490843b45fffc6b399080c30d86c09aab7935"
+hash = "9250a206f872cbe469a5dc9086ec5433dfa66e41f08e63fe963ad0d5f1a0030d"
 
 [versions]
 fabric = "0.19.5"
@@ -14,5 +14,6 @@ minecraft = "26.3"
 
 [options]
 [options.everness]
-settings-sha256 = "2a6f249779935a220c9e345646b9f7dcc2a91dd6a87b81b989db9b19a0680a43"
+news-image = ".github/assets/update-2026.11.08.1-hud-sync.png"
+settings-sha256 = "bb6ace8961882bb8a0c0eb81b40941cb4c43ea7277ece511ac20995942502263"
 settings-template = "settings-manifest.json"

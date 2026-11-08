@@ -7,12 +7,27 @@ preserve = true
 
 [[files]]
 file = "config/accurateblockplacement.properties"
-hash = "bf32a95a032da34fd143f66e39deeca1ad7abbd123c3a9324b2c125e0e0118d5"
+hash = "ca0ef1adcbe22013dfedba31871485bd2750187045d90ebcc9a8d0aae24d6f14"
 preserve = true
 
 [[files]]
 file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
+preserve = true
+
+[[files]]
+file = "config/atlas-autoswitch-exclusions.json"
+hash = "470eab05e6a520cf3511e58cea6b80165410344c848fb29421e1abf9efa76b20"
+preserve = true
+
+[[files]]
+file = "config/atlas-autototem.json"
+hash = "67427334d72581d7b409e0091056e7c353eed5c5cec606836f85008598f8062a"
+preserve = true
+
+[[files]]
+file = "config/atlas-inventory-controls.json"
+hash = "8506740c894b399443d95fb9cbd186adaace8fb401a2f088b2ebf50894015aba"
 preserve = true
 
 [[files]]
@@ -22,7 +37,7 @@ preserve = true
 
 [[files]]
 file = "config/bettershulker-plus.properties"
-hash = "1a6f14584ed56a9db538f42a6bd3651308c6f73cffd01c08e345e3cc01a9f64b"
+hash = "73f233f5e85a964badf01559276221e492eac727ab7c49182f57b82ff923e2f5"
 preserve = true
 
 [[files]]
@@ -37,7 +52,7 @@ preserve = true
 
 [[files]]
 file = "config/camerautils/camerautils.properties"
-hash = "77d538d4cd99912cea16d51282c942751445daa53bb811c88d5a79a5dac52fb3"
+hash = "695e0dc76088a031c55c7827164f5d97b8d1e15447e3dbbdf302dd450ee30f7a"
 preserve = true
 
 [[files]]
@@ -57,7 +72,7 @@ preserve = true
 
 [[files]]
 file = "config/clientsort.json"
-hash = "2fa39b81d4a69afcf85c92a01f9fad3196f5f197039a89dd7719203fae27db17"
+hash = "1274901ce2f0ac22947ed6492cd2c0f4008b3f630b8a36a86b48bad0a8a00749"
 preserve = true
 
 [[files]]
@@ -77,7 +92,7 @@ preserve = true
 
 [[files]]
 file = "config/cwb.json"
-hash = "0e5450c4451c985944c54ff849251d6d7dd59502a41b165380d29285d207ebd5"
+hash = "78b3d8ac54fde383618dbbbea95e4ac344f2d55a966b8cb8aa72f0b960927aa9"
 preserve = true
 
 [[files]]
@@ -152,32 +167,42 @@ preserve = true
 
 [[files]]
 file = "config/hud-registry.json"
-hash = "72a025b5659f481d56c11a474a55bf7e33fec31edbf0abeb57995382152f976e"
+hash = "241fa5969ba76a44488290c49a55c934dc70c5e52714138e00dc01c35bbfa9f4"
 preserve = true
 
 [[files]]
-file = "config/huds/4708-media.json"
-hash = "fafcd6b3823c1f5cc82060448b8b07f0996888674d6e6eb92ff4f250b08533ed"
+file = "config/huds/2249-armor.json"
+hash = "0f163f635bb3970d26ce0d5b642476f3ba5738f73d2b06b5126f1d3dc8735c29"
 preserve = true
 
 [[files]]
-file = "config/huds/everness-armor.json"
-hash = "5b2de08499bbe38d5cb6197c248f91ecb6714cbc9de397b9fb0faedccb31fa22"
+file = "config/huds/6819-potion_effects.json"
+hash = "e501a611b782ba4a81ef7b9d67a7c98de874d31e42034533c9a09e0918918686"
+preserve = true
+
+[[files]]
+file = "config/huds/8623-player_head.json"
+hash = "767d219a71f3082741a022be4097a325a7ca67d0d2869cc07a3dacaf5178b948"
+preserve = true
+
+[[files]]
+file = "config/huds/9501-media.json"
+hash = "b1a808b1ed9d248e749800044132dd83293c33be19e24289ee1d8987a0f1ce1a"
+preserve = true
+
+[[files]]
+file = "config/huds/9962-fps.json"
+hash = "7ac8668a28bd13ee180a7ecd969b23f05076858d8ed146319bf4b79338983c25"
 preserve = true
 
 [[files]]
 file = "config/huds/everness-compass.json"
-hash = "adeed4eb5ba3ef06b1e1698da39313f9e6d40d4d745610875286e86fbad86251"
-preserve = true
-
-[[files]]
-file = "config/huds/everness-fps.json"
-hash = "d66b08c2f5e1e915d8eafffe53e5ed19e9be5cc4bc3ae1951d242e51370f69a2"
+hash = "a8b9ea7a41f72f9dc7aa6091ba6cec1069e75c0eb1ece6cf74a377c3f86fe35b"
 preserve = true
 
 [[files]]
 file = "config/huds/everness-position.json"
-hash = "c6dd53552df8d59ebed38bb36f543ea16782e579af7ea72aad225ccd8f9911e4"
+hash = "43cc07bdbaed98fd6db017809eaadd90db1180b617c07be4575af9b288c037c7"
 preserve = true
 
 [[files]]
@@ -192,7 +217,7 @@ preserve = true
 
 [[files]]
 file = "config/iris.properties"
-hash = "1327505c0d54040f57aff7b2c1b2d7b3f2b9ee05f3982b4f579cf43e31545d45"
+hash = "a992615a433d59ff6be787c16d3cb2fb952ba818c1fb48a3fd01bd64b90fe4fe"
 preserve = true
 
 [[files]]
@@ -217,7 +242,7 @@ preserve = true
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "f61d213fa2d92d97f98ca984aac4f4359c4999e5edad7d7854ec71666faca815"
+hash = "8b412d25a1e41149cdc78174e31cf6ea45e1c5ebece91db1652913ea5d8b1a6c"
 preserve = true
 
 [[files]]
@@ -332,7 +357,7 @@ preserve = true
 
 [[files]]
 file = "config/minecraft-keybinds.json"
-hash = "edc2291bb0dcdfd95a3d073bd45e022b0593b61de0d57b3282f67f352be806ba"
+hash = "75ec3d3dc3970d162a7240825d0c13a3a6ba29d918e843480192b927e31c5208"
 preserve = true
 
 [[files]]
@@ -352,12 +377,12 @@ preserve = true
 
 [[files]]
 file = "config/oneconfig.json"
-hash = "1a111f9f6b17078ec7987bd87b47d1cbd88e7f81dda7532db13af3bad81d34a6"
+hash = "ae2718494befa14e445fe421ab90187e2db15c487beac85b3e4aa1b3555fe42e"
 preserve = true
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "e6282166747b8f6ebe1cd951a0440a2acd6b57c8b02b91153d02532a90cd4f13"
+hash = "14854ebcd2f9e5d59d0e82825f8a6843a331d7b63b924c64e9473b8c9ff125fd"
 preserve = true
 
 [[files]]
@@ -397,7 +422,7 @@ preserve = true
 
 [[files]]
 file = "config/purescale-modern.json"
-hash = "e4084e6de83faa4fe3c65118495f8ce86b1ffbf42302ce18ac8b7fb082f17668"
+hash = "2de5a3b3b6121e00f9e66d36a73d4325d2cbe664078de077be976d68355325a9"
 preserve = true
 
 [[files]]
@@ -497,7 +522,7 @@ preserve = true
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "a15982986c3f6fd433bf1fe02b9405140186fc75e6f6fa8055173fa23a4b6783"
+hash = "93708cd873629c4f9ec3dfa980a456ec86ff9ad90bead31b541b8f49f0b01c97"
 preserve = true
 
 [[files]]
@@ -547,12 +572,12 @@ preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "689f468cf6435905f3adecc59142d9b3fb0ceb8a4a8d011abcee7e2587b42fff"
+hash = "21fea696d9c7b5dcb18d90a346312b3bf2f1796a51bfdd72c74355e65aafe72e"
 preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "d7269fae3324cc2f242e457b5fe77c425b94c15d74abcfd3fb83890528d4db46"
+hash = "b3844b0ab0a24cf6a8bd510093855445d4a624ba0646d71780e1e25d9e13315f"
 preserve = true
 
 [[files]]
@@ -577,7 +602,7 @@ preserve = true
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+hash = "754634abd1ca6918cd6a00eb302608b98fe70dfa67b13be8f62653aae3458b73"
 preserve = true
 
 [[files]]
@@ -596,6 +621,10 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 preserve = true
 
 [[files]]
+file = "downloads/SHA256SUMS.txt"
+hash = "288aa6a6e6d042903c739bc41c6d2eca8d3fe874ee2d004b3e37ce79f6698335"
+
+[[files]]
 file = "mods/3dskinlayers-1a93ba9f72-6fa834.pw.toml"
 hash = "1bf5262cebfd10e2b13773a97493b7c339c6d9d8afbd5f08e2ebf15531c8881d"
 metafile = true
@@ -608,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin-17d257af41-e176e5.pw.toml"
 hash = "75bae1e978f5bfd437477d8df3d29f62eacdf9b5d487fd081077f1be829d3de3"
+metafile = true
+
+[[files]]
+file = "mods/atlas-inventory-controls.pw.toml"
+hash = "c4e2bfd637bbe400ad8964c3db81addc32ee5fba2aa0579a60bb34d200425fd7"
 metafile = true
 
 [[files]]
@@ -716,8 +750,8 @@ hash = "b41dee2109a962de0422763df0bb9d65bd8c64f78658ca66062dc46d17187075"
 metafile = true
 
 [[files]]
-file = "mods/forever-map-client-f638be.pw.toml"
-hash = "f1007b4d54a22019a677833184544093f76a1b528c04a1177eb5780405eb63b6"
+file = "mods/forever-map-client-3fdfed.pw.toml"
+hash = "80f2bdd6ba3187c6555984fa754fd416a7aad1aebe743c6716b1a8d8680b70bd"
 metafile = true
 
 [[files]]
@@ -901,8 +935,8 @@ hash = "945c4cac454e30652e1c675895d2ca1e38cb17fb193edfe83976da6894d0dae4"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0-2-20-beta-8bdb65772a.pw.toml"
-hash = "0365368744140dab88ea51a06ff393f76b194363a335fe71040c8a78be8a1242"
+file = "mods/voxy.pw.toml"
+hash = "09727d44c42538b9780e340d7da2c230d13b1bc7913db037984020401be339da"
 metafile = true
 
 [[files]]
@@ -932,7 +966,7 @@ preserve = true
 
 [[files]]
 file = "options.txt"
-hash = "92273cc361b37cd1b8a8f0c7eb9e92bdc1b59cf0106be4efea3e91477b0b2292"
+hash = "afcd81e3f42195cc12463548937978e566a4e0e63d6e46ffa96c655606c2a08c"
 preserve = true
 
 [[files]]
@@ -1091,6 +1125,11 @@ hash = "597bc6b19da9463b3be143bf0a32173a34bdb7a1bdb37e2b398f336a070af6fa"
 preserve = true
 
 [[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.txt"
+hash = "1050de6d38d481c9ae3ce2527dce2ea0825935602688785689d4d255eb4f624c"
+preserve = true
+
+[[files]]
 file = "shaderpacks/I Like Vanilla v1.5.0b.zip.txt"
 hash = "55233bb704da0c9415e270ffaebb6e93da536006eb96dcafa9bda30384ba8cc0"
 preserve = true
@@ -1122,7 +1161,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/Tobias-Pixel.zip.txt"
-hash = "1919ad9f708e2a3a3fd88348fb3725648d88f5ab215d6bc59e2362f464505f73"
+hash = "cefef975d4836da5e7ef8599277224b5bee94fa1f17e68ed5ec05d094b6d07e0"
 preserve = true
 
 [[files]]
@@ -1222,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/tobias-pixel-2f71832bfc.pw.toml"
-hash = "830f076d1d8fbbdf9755408e35da46aba5e152d21662114fab86fde38e6c9701"
+hash = "b8ef6711b77f03165367b2a42758bde7d5927c7ff16499d0576834fa8cd638a8"
 metafile = true
 
 [[files]]
